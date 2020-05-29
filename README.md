@@ -13,7 +13,7 @@ The generator is random, that's more interesting ^^
 - Use ``make`` into the folder
 - Run ./generator x y (perfect)
 - Example perfect maze  : ./generator 15 10 perfect
-- Example impefect maze : ./generator 15 10
+- Example imperfect maze : ./generator 15 10
 
 # How the mazes look like:
 *Imperfect*
