@@ -23,4 +23,4 @@ The generator is random, that's more interesting ^^
 
 ![mazeperfect](https://i.imgur.com/8NdUB39.png)
 
-Contributeur : Anthony Luong (https://github.com/Noubouille)
+Contributor : Anthony Luong (https://github.com/Noubouille)
