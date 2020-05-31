@@ -1,7 +1,6 @@
 # Dante-s-star
 The goal of this project is to create a perfect and imperfect maze and to solve it in C.
 
-It was a project group and I worked on the generator part. We haven't finished the solve part.
 The generator is random, that's more interesting ^^
 
 ## Perfect and Imperfect maze ?
