@@ -14,7 +14,7 @@ The generator is random, that's more interesting ^^
 - Example perfect maze  : ./generator 15 10 perfect
 - Example imperfect maze : ./generator 15 10
 
-# How the mazes look like:
+## How the mazes look like:
 *Imperfect*
 
 ![maze](https://i.imgur.com/coBiKDQ.png)
@@ -22,3 +22,5 @@ The generator is random, that's more interesting ^^
 *Perfect*
 
 ![mazeperfect](https://i.imgur.com/8NdUB39.png)
+
+Contributeur : Anthony Luong (https://github.com/Noubouille)
